@@ -12,3 +12,12 @@ C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstAp
 C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\WebApplication1\bin\Debug\netcoreapp2.1\Lesson2.pdb
 C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\WebApplication1\obj\Debug\netcoreapp2.1\Lesson2.dll
 C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\WebApplication1\obj\Debug\netcoreapp2.1\Lesson2.pdb
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\WebApplication1\bin\Debug\netcoreapp2.1\Lesson2.Views.dll
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\WebApplication1\bin\Debug\netcoreapp2.1\Lesson2.Views.pdb
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\WebApplication1\obj\Debug\netcoreapp2.1\Lesson2.TagHelpers.input.cache
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\WebApplication1\obj\Debug\netcoreapp2.1\Lesson2.TagHelpers.output.cache
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\WebApplication1\obj\Debug\netcoreapp2.1\Lesson2.RazorCoreGenerate.cache
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index2.g.cshtml.cs
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\WebApplication1\obj\Debug\netcoreapp2.1\Lesson2.RazorTargetAssemblyInfo.cs
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\WebApplication1\obj\Debug\netcoreapp2.1\Lesson2.Views.pdb
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\WebApplication1\obj\Debug\netcoreapp2.1\Lesson2.csproj.CopyComplete

@@ -18,6 +18,11 @@ namespace Lesson2
             return Content("Hellow World from Index, returning Content(string msg)");
         }
 
+        public IActionResult index2()
+        {
+            return View();//View for 'index2' action method
+        }
+
         public IActionResult IndexUpper()
         {
             return new UpperStringActionResult("Hello World! I'm learning MVC, upper");
