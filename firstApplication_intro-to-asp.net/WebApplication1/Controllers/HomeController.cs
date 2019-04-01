@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Lesson2.Models;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -26,6 +27,24 @@ namespace Lesson2
         public IActionResult IndexUpper()
         {
             return new UpperStringActionResult("Hello World! I'm learning MVC, upper");
+        }
+
+        [SundayFilter]
+        public IActionResult Employee()
+        {
+            //sample, data usually comes from the database
+            Employee emp1 = new Employee
+            {
+                EmployeeId = 000001,
+                Name = "Bryant Vail",
+                Designation = "Junior Developer"
+                
+            };
+
+            ViewBag.Company = "Google Inc";
+            ViewData["CompanyLocation"] = "United States";
+            return View(emp1);
+            
         }
     }
     //public class Home2Controller : Controller
