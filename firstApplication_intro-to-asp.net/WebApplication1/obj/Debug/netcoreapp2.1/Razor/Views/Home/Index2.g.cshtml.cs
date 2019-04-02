@@ -45,7 +45,7 @@ namespace AspNetCore
             WriteLiteral("\r\n<html>\r\n    ");
             EndContext();
             BeginContext(144, 65, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4452cb6758fa49f0825eef1f5b998ce5", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1d3df89d5bfd4552a395b32f7335c287", async() => {
                 BeginContext(150, 52, true);
                 WriteLiteral("\r\n        Hello! this is <b>My first view!</b>\r\n    ");
                 EndContext();

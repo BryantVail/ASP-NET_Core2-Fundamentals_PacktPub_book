@@ -3,3 +3,134 @@
 *@
 @{
 }
+
+<html>
+    <head>
+        <title>Views Demo</title>
+    </head>
+    <body>
+
+        <h1>
+            Loop through an Element 5 times and increment each time:
+        </h1>
+        
+        <h2>For Loop:</h2>
+
+        <ul>
+            @*@{
+                int i = 5;
+            }
+            Value: @i*@
+
+
+            @{
+                //loop through an element 5 times & increment each time
+                for (int i = 0; i < 5; i++)
+                {
+                    <li>@(i + 1)</li>
+                }
+            }
+
+
+        </ul>
+
+        <h2>
+            While Loop
+        </h2>
+        <ul>
+            @{ 
+                int m = 0;
+                while (m < 5)
+                {
+                    <li>@(m + 1)</li>
+                    m++;
+                }
+            }
+        </ul>
+
+        <h2>
+            ForEach Loop
+        </h2>
+
+        <ul>
+            @{
+
+                List<int> integers = new List<int>();
+                for (int k = 0; k < 7; k++)
+                {
+                    integers.Add(k);
+                }
+                //{
+                //    1,2,3,4,5
+                //};
+                foreach (int j in integers)
+                {
+                    <li>
+                        @j
+                    </li>
+                }
+
+            }
+
+        </ul>
+
+        <h2>
+            If statement for Greater-Than &amp; Less-Than @{ int num = 5;} @num  
+        </h2>
+
+        <ul>
+            @{ 
+                for(int l = 0; l<num*2; l++)
+                {
+                    if(l > num)
+                    {
+                        <li>
+                            <text>iterator is Greater-Than @num</text>
+                        </li>
+                    }
+                    else
+                    {
+                        <li>
+                            <text>iterator is Less-Than @num</text>
+                        </li>
+                        
+                    }
+                }
+            }
+        </ul>
+
+        <h1>IsPrime Example</h1>
+        @functions
+        {
+            public bool IsPrime(int n)
+            {
+                if (n <= 1) return false;
+                if (n <= 3) return true;
+                if(n % 2 == 0 || n%3 == 0)
+                {
+                    return false;
+                }
+                for(var i = 5; i * i <= n; i = i + 6)
+                {
+                    if(n % i == 0 || n % (i + 2) == 0)
+                    {
+                        return false;
+                    }
+                }
+                return true;
+            }//end IsPrime
+        }
+        <ul>
+            @{ 
+                for(var o = 1; o< 100; o++)
+                {
+                    if (IsPrime(o))
+                    {
+                        <li>@o</li>
+                    }
+                }
+            }
+        </ul>
+
+    </body>
+</html>
