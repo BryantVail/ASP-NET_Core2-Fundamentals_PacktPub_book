@@ -46,7 +46,7 @@ namespace AspNetCore
             WriteLiteral("\r\n<html>\r\n    ");
             EndContext();
             BeginContext(144, 54, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "82454b8251c246a1ab5be3b83ea889b8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b5a831f2e92a4490a8ce553697c2de41", async() => {
                 BeginContext(150, 41, true);
                 WriteLiteral("\r\n        <title>Views Demo</title>\r\n    ");
                 EndContext();
@@ -66,7 +66,7 @@ namespace AspNetCore
             WriteLiteral("\r\n    ");
             EndContext();
             BeginContext(204, 2922, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "68dadf16b41041e98ab4a7ab2703660e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "232c3b5ff189445c8b6ad7cb3a35e28b", async() => {
                 BeginContext(210, 157, true);
                 WriteLiteral("\r\n\r\n        <h1>\r\n            Loop through an Element 5 times and increment each time:\r\n        </h1>\r\n        \r\n        <h2>For Loop:</h2>\r\n\r\n        <ul>\r\n");
                 EndContext();
