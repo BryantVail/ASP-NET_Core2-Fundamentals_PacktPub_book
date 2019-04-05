@@ -1,9 +1,11 @@
 ﻿@model Views_Section3.Models.Person
 @*
+    //explicitly associating the model 'Person' with the @model
+
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 
-@if(ViewBag.Message != null)
+@if (ViewBag.Message != null)
 {
     <b>@ViewBag.Message</b>
 }
@@ -15,8 +17,11 @@
             <td>@Html.TextBoxFor(Model => Model.Name)</td>
         </tr>
         <tr>
-            <td>@Html.LabelFor(Model => Model.Age)</td>
-            <td>@Html.TextBoxFor(Model => Model.Age)</td>
+            @*<td>@Html.LabelFor(Model => Model.Age)</td>
+            <td>@Html.TextBoxFor(Model => Model.Age)</td>*@
+
+            <td>I am older than 18</td>
+            <td>@Html.CheckBox("OlderThan18", ViewData["OlderThan18"])</td>
         </tr>
         <tr>
             <td colspan="2"><input type="submit" value="submit" /></td>

@@ -33,13 +33,25 @@ namespace Views_Section3.Controllers
         [HttpPost]
         public IActionResult ValidateAge(Person person1)
         {
-            if(person1.Age >= 18)
+            //if(person1.Age >= 18)
+            //{
+            //    //if ViewBag.Message is false, it will not populate
+            //    ViewBag.Message = "You Are Eligible to Vote";
+            //}
+            //else
+            //{
+            //    //if ViewBag.Message is false, it will not populate
+            //    ViewBag.Message = "You Are NOT Eligible to Vote";
+            //}
+
+            if (Convert.ToBoolean(Request.Form["OlderThan18"][0]))
             {
-                ViewBag.Message = "You Are Eligible to Vote";
+                ViewData["OlderThan18"] = true;
+                ViewBag.Message = "You are Eligible to Vote!";
             }
             else
             {
-                ViewBag.Message = "You Are NOT Eligible to Vote";
+                ViewBag.Message = "Sorry, you ARE NOT Old Enough to be eligible to Vote!";
             }
 
             return View();
