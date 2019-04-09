@@ -18,8 +18,18 @@ namespace Views_Section3.Controllers
 
         public IActionResult Index2()
         {
+            //retrieve data & put it in an object
+            var employees = new List<Employee>
+            {
+                new Employee {Id = 10012, Name = "Bryant Vail"},
+                new Employee {Id = 10013, Name = "Jason Hall" },
+                new Employee {Id = 10015, Name = "Scott Black"}
+            };
+
             ViewBag.Title = "This is index2";
-            return View();
+
+            //send object to the view, through View()
+            return View( employees);
         }
 
         [HttpGet]

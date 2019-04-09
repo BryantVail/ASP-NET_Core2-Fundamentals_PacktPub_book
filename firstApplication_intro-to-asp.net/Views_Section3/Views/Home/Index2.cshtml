@@ -1,4 +1,5 @@
-﻿@*
+﻿@model List<Views_Section3.Models.Employee>
+@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
@@ -7,4 +8,4 @@
 
 Hello. This text will be rendered in the body of the layout page<br/> <br/> <br/> <br/>
 
-@Html.Partial("_PartialHellowWorld")
+@Html.Partial("_EmployeeList", Model)

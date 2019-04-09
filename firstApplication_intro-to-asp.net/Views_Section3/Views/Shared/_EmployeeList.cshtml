@@ -9,16 +9,13 @@
         <th>Employee No.</th>
         <th>Employee Name</th>
     </tr>
-    <tr>
-        <td>10012</td>
-        <td>Bryant Vail</td>
-    </tr>
-    <tr>
-        <td>10013</td>
-        <td>Jason Hall</td>
-    </tr>
-    <tr>
-        <td>10015</td>
-        <td>Scott Black</td>
-    </tr>
+        @{ @* Table Rows (<tr>) & Table Data (<td>) 'foreach' employee in record*@
+            foreach(var employee in Model)
+            {
+                <tr>
+                    <td>@employee.Id</td>
+                    <td>@employee.Name</td>
+                </tr>
+            }
+        }    
 </table>
