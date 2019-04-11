@@ -12538,9 +12538,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bvail\\Documents\\GitHub\\ASP-NET_Core2-Fundamentals_PacktPub_book\\firstApplication_intro-to-asp.net\\Views_Section3\\Views_Section3.csproj",
-      "projectName": "Views_Section3",
-      "projectPath": "C:\\Users\\bvail\\Documents\\GitHub\\ASP-NET_Core2-Fundamentals_PacktPub_book\\firstApplication_intro-to-asp.net\\Views_Section3\\Views_Section3.csproj",
+      "projectUniqueName": "C:\\Users\\bvail\\Documents\\GitHub\\ASP-NET_Core2-Fundamentals_PacktPub_book\\firstApplication_intro-to-asp.net\\Views_Section3\\Section3_Views.csproj",
+      "projectName": "Section3_Views",
+      "projectPath": "C:\\Users\\bvail\\Documents\\GitHub\\ASP-NET_Core2-Fundamentals_PacktPub_book\\firstApplication_intro-to-asp.net\\Views_Section3\\Section3_Views.csproj",
       "packagesPath": "C:\\Users\\bvail\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\bvail\\Documents\\GitHub\\ASP-NET_Core2-Fundamentals_PacktPub_book\\firstApplication_intro-to-asp.net\\Views_Section3\\obj\\",
       "projectStyle": "PackageReference",

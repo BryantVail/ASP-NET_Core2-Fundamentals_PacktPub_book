@@ -13,7 +13,18 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
+#line 1 "C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\Views_Section3\Views\_ViewImports.cshtml"
+using Views_Section3;
+
+#line default
+#line hidden
+#line 2 "C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\Views_Section3\Views\_ViewImports.cshtml"
+using Views_Section3.Views.ViewComponents;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4f92af3b7d789d6d2aa6cae0c01370d874eccf38", @"/Views/Home/Index.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ffbfef69c7c5489ee78eb6f8ad6cd6ae33cc8a9d", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #line hidden
@@ -46,7 +57,7 @@ namespace AspNetCore
             WriteLiteral("\r\n<html>\r\n    ");
             EndContext();
             BeginContext(144, 54, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c02c4fb029d74bc08fd16c4b08b6c52c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "83f3d4a0e64a422085b68db5a5d5aa69", async() => {
                 BeginContext(150, 41, true);
                 WriteLiteral("\r\n        <title>Views Demo</title>\r\n    ");
                 EndContext();
@@ -66,7 +77,7 @@ namespace AspNetCore
             WriteLiteral("\r\n    ");
             EndContext();
             BeginContext(204, 2922, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eef48ef8dfb9497290b6c325424d559e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7a2ac72b94a7461bbad80973fe80c06c", async() => {
                 BeginContext(210, 157, true);
                 WriteLiteral("\r\n\r\n        <h1>\r\n            Loop through an Element 5 times and increment each time:\r\n        </h1>\r\n        \r\n        <h2>For Loop:</h2>\r\n\r\n        <ul>\r\n");
                 EndContext();

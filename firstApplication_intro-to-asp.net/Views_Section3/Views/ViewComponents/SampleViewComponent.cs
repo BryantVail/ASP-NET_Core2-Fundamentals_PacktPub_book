@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Views_Section3.Views.ViewComponents
 {
-    public class SimpleViewComponent : ViewComponent
+    public class SampleViewComponent : ViewComponent
     {
         public IViewComponentResult Invoke(string additionalData)
         {

@@ -31,3 +31,8 @@ C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstAp
 C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\Views_Section3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Form-HtmlHelpers.g.cshtml.cs
 C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\Views_Section3\obj\Debug\netcoreapp2.1\Razor\Views\Home\ValidateAge.g.cshtml.cs
 C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\Views_Section3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_EmployeeList.g.cshtml.cs
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\Views_Section3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\Views_Section3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Sample.g.cshtml.cs
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\Views_Section3\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Sample\default.g.cshtml.cs
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\Views_Section3\obj\Debug\netcoreapp2.1\Razor\Views\Home\AboutUs.g.cshtml.cs
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\Views_Section3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index3.g.cshtml.cs

@@ -66,6 +66,23 @@ namespace Views_Section3.Controllers
 
             return View();
         }
+
+        public ActionResult Sample()
+        {
+            return View();
+        }
+
+        public IActionResult Index3()
+        {
+            ViewBag.Title = "This is Index3";
+            Person person = new Person();
+            return View(person);
+        }
+
+        public IActionResult AboutUs()
+        {
+            return View();
+        }
     }
 
     
