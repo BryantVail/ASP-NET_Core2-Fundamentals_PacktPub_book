@@ -1,0 +1,8 @@
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\ConsoleEF\bin\Debug\netcoreapp2.1\ConsoleEF.deps.json
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\ConsoleEF\bin\Debug\netcoreapp2.1\ConsoleEF.runtimeconfig.json
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\ConsoleEF\bin\Debug\netcoreapp2.1\ConsoleEF.runtimeconfig.dev.json
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\ConsoleEF\bin\Debug\netcoreapp2.1\ConsoleEF.dll
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\ConsoleEF\obj\Debug\netcoreapp2.1\ConsoleEF.csprojAssemblyReference.cache
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\ConsoleEF\obj\Debug\netcoreapp2.1\ConsoleEF.csproj.CoreCompileInputs.cache
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\ConsoleEF\obj\Debug\netcoreapp2.1\ConsoleEF.AssemblyInfoInputs.cache
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\ConsoleEF\obj\Debug\netcoreapp2.1\ConsoleEF.AssemblyInfo.cs
