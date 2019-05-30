@@ -7,26 +7,26 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace WebApplication1
+namespace Lesson4_Models
 {
     public class Startup
     {
-        //this method gets called by the runtime
-        //Add Services to the container with this method
+        //
+        //
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
         }
 
         //Runtime calls this method
-        //configure the HTTP Request Pipeline
+        //configures the http req pipeline
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-            }
 
+            }
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
@@ -34,5 +34,5 @@ namespace WebApplication1
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
         }
-    }
+    }//end class
 }

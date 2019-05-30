@@ -1,0 +1,4 @@
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\Lesson4-Models\obj\Debug\netcoreapp2.1\Lesson4Models.csprojAssemblyReference.cache
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\Lesson4-Models\obj\Debug\netcoreapp2.1\Lesson4Models.csproj.CoreCompileInputs.cache
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\Lesson4-Models\obj\Debug\netcoreapp2.1\Lesson4Models.AssemblyInfoInputs.cache
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\Lesson4-Models\obj\Debug\netcoreapp2.1\Lesson4Models.AssemblyInfo.cs
