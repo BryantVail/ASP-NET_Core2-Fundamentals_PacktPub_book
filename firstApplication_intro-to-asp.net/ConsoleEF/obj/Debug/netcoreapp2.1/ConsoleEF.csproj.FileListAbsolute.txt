@@ -17,3 +17,6 @@ C:\Users\bryan\OneDrive\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_boo
 C:\Users\bryan\OneDrive\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\ConsoleEF\obj\Debug\netcoreapp2.1\ConsoleEF.AssemblyInfo.cs
 C:\Users\bryan\OneDrive\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\ConsoleEF\obj\Debug\netcoreapp2.1\ConsoleEF.dll
 C:\Users\bryan\OneDrive\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\ConsoleEF\obj\Debug\netcoreapp2.1\ConsoleEF.pdb
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\ConsoleEF\bin\Debug\netcoreapp2.1\ConsoleEF.pdb
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\ConsoleEF\obj\Debug\netcoreapp2.1\ConsoleEF.dll
+C:\Users\bvail\Documents\GitHub\ASP-NET_Core2-Fundamentals_PacktPub_book\firstApplication_intro-to-asp.net\ConsoleEF\obj\Debug\netcoreapp2.1\ConsoleEF.pdb

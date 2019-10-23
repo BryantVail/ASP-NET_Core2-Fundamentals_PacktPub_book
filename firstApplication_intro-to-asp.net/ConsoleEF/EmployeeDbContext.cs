@@ -9,6 +9,7 @@ namespace ConsoleEF
 {
     class EmployeeDbContext : DbContext
     {
+        //domain objects
         public DbSet<Employee> Employees { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
